@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 
-# Hey, I'm Venkata Sai Vorsu!
+# Hey, I'm Venkatasai Vorsu!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer+%F0%9F%9A%80;3+Years+Building+Scalable+Applications;Spring+Boot+%7C+React+%7C+Angular+%7C+Cloud;Clean+Code+%7C+SOLID+Principles+%7C+Impact;Open+to+Exciting+Opportunities!)](https://git.io/typing-svg)
 
